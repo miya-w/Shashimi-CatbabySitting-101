@@ -1,9 +1,9 @@
-# Sasimi Baby Sitting 101
+# SashimiCatBabySitting 101
 ---
 
-![Sashmi profile](https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/Screen%20Shot%202022-03-31%20at%201.42.04%20pm.png)
+![Sashimi profile](https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/Screen%20Shot%202022-03-31%20at%201.42.04%20pm.png)
 ---
-- Official Name : Sashmi 
+- Official Name : Sashimi 
 - Suburb: Carlton (Melbourne City council)
 - Age: About 2 years
 - Weight: 4.8 KG
@@ -24,8 +24,9 @@
 |**10PM**| night snack time|
 |After 10PM|  play with her, make sure she is tired before going to bed|
 ---
-- Hightly suggest keeping her awake during the day, by give her treat or play "hide treat game"(hide the treat and she will find), otherwise she might ne energetic at night (believe me, you don't want it happen). 
-**This is waht will happen when you get her bored too long** <br/>
+- Hightly suggest keeping her awake during the day, by giving her treat or play "hide treat game"(hide the treat and she will find), otherwise she might be energetic at night (believe me, you don't want it happen). 
+- Don't let her feel bord
+- **This is what will happen when you get her bored too long** <br/>
 <img src="https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/Crime%20scene.jpg" width="180" height="300">
 
 ---
@@ -33,7 +34,7 @@
 [Cat School Clicker Training Youtube](https://www.youtube.com/c/CatSchool)
 ### Cat Food
 ---
-For a indoor cat(4KG) She need intake Calorie 180 - 240 per day. The feeder gaive her 10g per meal(300 kal/ 100g)(10*3*4 = 120kal), so you can hive her some treats or the other wet food (60kal) ! 
+For a indoor cat(4KG) She needs to intake Calorie 180 - 240Kal per day. The feeder gives her 10g per meal(300 kal/ 100g)(10*3*4 = 120kal), so you can hive her some treats or the other wet food (about 60kal) ! 
 ##### Dry Food
 - [Hill's Science Diet Feline Adult Original Cat Food](https://www.petbarn.com.au/science-diet-optimal-care-adult-cat-food?sku=98099&gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr96FpSlnXjN6jI71sowQosjzOB_brKXLw6Qa876NZaGerbqfM5QqW8aAjyxEALw_wcB&gclsrc=aw.ds)
 - [Hill's Science Diet Feline Adult Indoor Cat Food](https://www.petbarn.com.au/science-diet-feline-adult-indoor-cat-food?sku=119985)
@@ -70,8 +71,13 @@ North Melbourne VIC 3051 <br/>
 [Can Cats Eat Spicy Foods? What You Need to Know!](https://excitedcats.com/can-cats-eat-spicy-foods/)
 [15 Toxic Human Foods You Should Never Feed Your Cat](https://www.dailypaws.com/cats-kittens/cat-nutrition/what-can-cats-eat/foods-toxic-to-cats)
 
-### The toxix plant forr cats
+### The toxic plants for cats
 
 [42 plants that are toxic to our feline friends](https://rspcavic.org/learn/42-plants-that-are-toxic-to-our-feline-friends/)
 
 [9 Popular Houseplants That Are Toxic to Cats](https://www.thespruce.com/houseplants-toxic-to-cats-4775359)
+
+### How to clean the cat hair
+- For Furniture fabric -> Dyson
+- For Clothes -> A lint roller
+
