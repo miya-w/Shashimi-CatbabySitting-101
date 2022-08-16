@@ -15,7 +15,7 @@
 
 | Time | ACTIVITIES |
 | -----| ----------- |
-|Get up| 1. clean the poop, 2. check the water, 3.she would greeting with you(~~sometime before you wake up XD~~) |
+|Get up| 1. clean the poop, 2. check the water, 3.she would greeting with you(~~before you wake up sometimes XD~~) |
 | **10AM** | breakfast time |
 |10AM - 2pm|game, treat time |
 | **2PM**  | lunch time     |
@@ -24,6 +24,7 @@
 |**10PM**| night snack time|
 |After 10PM|  play with her, make sure she is tired before going to bed|
 ---
+- Hightly suggest keeping her awake during the day, by give her treat or play "hide treat game"(hide the treat and she will find), otherwise she might ne energetic at night (believe me, you don't want it happen). 
 **This is waht will happen when you get her bored too long** <br/>
 <img src="https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/Crime%20scene.jpg" width="180" height="300">
 
