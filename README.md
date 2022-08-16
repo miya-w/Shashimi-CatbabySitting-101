@@ -23,17 +23,18 @@
 |**6PM**| dinner time|
 |**10PM**| night snack time|
 |After 10PM|  play with her, make sure she is tired before going to bed|
+---
 **This is waht will happen when you get her bored too long**
-![crime scene]()
+![crime scene](https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/Crime%20scene.jpg)
 ---
 ### Clicker Training 
-[Cat School Clicker Training](https://www.youtube.com/c/CatSchool)
+[Cat School Clicker Training Youtube](https://www.youtube.com/c/CatSchool)
 ### Cat Food
 ---
 For a indoor cat(4KG) She need intake Calorie 180 - 240 per day. The feeder gaive her 10g per meal(300 kal/ 100g)(10*3*4 = 120kal), so you can hive her some treats or the other wet food (60kal) ! 
 ##### Dry Food
 - [Hill's Science Diet Feline Adult Original Cat Food](https://www.petbarn.com.au/science-diet-optimal-care-adult-cat-food?sku=98099&gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr96FpSlnXjN6jI71sowQosjzOB_brKXLw6Qa876NZaGerbqfM5QqW8aAjyxEALw_wcB&gclsrc=aw.ds)
-- Hill's Science Diet Feline Adult Indoor Cat Food](https://www.petbarn.com.au/science-diet-feline-adult-indoor-cat-food?sku=119985)
+- [Hill's Science Diet Feline Adult Indoor Cat Food](https://www.petbarn.com.au/science-diet-feline-adult-indoor-cat-food?sku=119985)
 - [Hill's Science Diet Perfect Weight Adult Cat Food](https://www.petbarn.com.au/science-diet-perfect-weight-adult-cat-food?sku=139349&gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr9-2ymAHRbSOiXixDZyKUWoCavxEkc_0-TV9-DQRm6xCMoL5MF2mdcaAhNBEALw_wcB&gclsrc=aw.ds)
 ##### Wet food
 - [Whiskas 1+ Years Wet Cat Food Chicken Mince 400g Can](https://www.woolworths.com.au/shop/productdetails/78599/whiskas-1-years-wet-cat-food-chicken-mince)
@@ -53,8 +54,8 @@ For a indoor cat(4KG) She need intake Calorie 180 - 240 per day. The feeder gaiv
 North Melbourne VIC 3051 <br/>
 ### Feeder
 - M80 automatic pet feeder
-[Manual]()
-[M80 Youtube tutorial](https://www.youtube.com/watch?v=L06A99ZDTNk)
+[Manual](https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/M80%20pet%20feeder%20manual.pdf)<br/>
+[M80 Youtube tutorial](https://www.youtube.com/watch?v=L06A99ZDTNk)<br/>
 ---
 ### The poison food for cat
 - Onions and Garlic. ...
