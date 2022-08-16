@@ -25,7 +25,8 @@
 |After 10PM|  play with her, make sure she is tired before going to bed|
 ---
 **This is waht will happen when you get her bored too long**
-![crime scene](https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/Crime%20scene.jpg)
+![crime scene](https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/Crime%20scene.jpg)with <img src="https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/Crime%20scene.jpg" width="100" height="200">
+
 ---
 ### Clicker Training 
 [Cat School Clicker Training Youtube](https://www.youtube.com/c/CatSchool)
