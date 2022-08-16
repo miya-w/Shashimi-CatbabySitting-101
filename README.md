@@ -24,8 +24,8 @@
 |**10PM**| night snack time|
 |After 10PM|  play with her, make sure she is tired before going to bed|
 ---
-**This is waht will happen when you get her bored too long**
-![crime scene]<img src="https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/Crime%20scene.jpg" width="150" height="300">
+**This is waht will happen when you get her bored too long** <br/>
+<img src="https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/Crime%20scene.jpg" width="180" height="300">
 
 ---
 ### Clicker Training 
