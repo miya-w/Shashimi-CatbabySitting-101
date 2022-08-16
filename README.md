@@ -1,6 +1,6 @@
 #Sasimi Baby Sitting 101
 ---
-(Sashmi profile)[https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/Screen%20Shot%202022-03-31%20at%201.42.04%20pm.png]
+![Sashmi profile](https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/Screen%20Shot%202022-03-31%20at%201.42.04%20pm.png)
 ---
 Official Name : Sashmi 
 Suburb: Carlton (Melbourne City council)
@@ -8,7 +8,7 @@ Age: About 2 years
 Original: Adaped from [the Lost Dog Home](https://dogshome.com/) in April 2022. According to the shelter, she was found in suburn Sunshine.
 
 ### Clicker Training 
-
+[Cat School Clicker Training](https://www.youtube.com/c/CatSchool)
 ### Cat Food
 - Dry Food
 [Hill's Science Diet Feline Adult Original Cat Food](https://www.petbarn.com.au/science-diet-optimal-care-adult-cat-food?sku=98099&gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr96FpSlnXjN6jI71sowQosjzOB_brKXLw6Qa876NZaGerbqfM5QqW8aAjyxEALw_wcB&gclsrc=aw.ds)
@@ -34,6 +34,13 @@ North Melbourne VIC 3051
 ---
 ### Routin
 
+| Time | ACTIVITIES |
+| -----| ----------- |
+| 10 Am | Title       |
+| 2 PM   | Text        |
+| 2 - 6PM ||
+|6PM||
+|10PM||
 
 ---
 ### The poison food for cat
