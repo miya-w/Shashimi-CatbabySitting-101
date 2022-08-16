@@ -2,20 +2,34 @@
 ---
 ![Sashmi profile](https://github.com/miya-w/Shashimi-CatbabySitting-101/blob/master/images/Screen%20Shot%202022-03-31%20at%201.42.04%20pm.png)
 ---
-Official Name : Sashmi 
-Suburb: Carlton (Melbourne City council)
-Age: About 2 years
-Original: Adaped from [the Lost Dog Home](https://dogshome.com/) in April 2022. According to the shelter, she was found in suburn Sunshine.
+- Official Name : Sashmi 
+- Suburb: Carlton (Melbourne City council)
+- Age: About 2 years
+- Weight: 4.8 KG
+- Original: Adaped from [the Lost Dog Home](https://dogshome.com/) in April 2022. According to the shelter, she was found in Sunshine.
+---
+### Routin
 
+| Time | ACTIVITIES |
+| -----| ----------- |
+| 10 Am | breakfast  |
+|10 AM - 2pm||
+| 2 PM  | lunch       |
+| 2 - 6PM ||
+|6 PM| dinner|
+|10 PM| night snack|
+
+---
 ### Clicker Training 
 [Cat School Clicker Training](https://www.youtube.com/c/CatSchool)
 ### Cat Food
-- Dry Food
-[Hill's Science Diet Feline Adult Original Cat Food](https://www.petbarn.com.au/science-diet-optimal-care-adult-cat-food?sku=98099&gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr96FpSlnXjN6jI71sowQosjzOB_brKXLw6Qa876NZaGerbqfM5QqW8aAjyxEALw_wcB&gclsrc=aw.ds)
-[Hill's Science Diet Feline Adult Indoor Cat Food](https://www.petbarn.com.au/science-diet-feline-adult-indoor-cat-food?sku=119985)
-[Hill's Science Diet Perfect Weight Adult Cat Food](https://www.petbarn.com.au/science-diet-perfect-weight-adult-cat-food?sku=139349&gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr9-2ymAHRbSOiXixDZyKUWoCavxEkc_0-TV9-DQRm6xCMoL5MF2mdcaAhNBEALw_wcB&gclsrc=aw.ds)
-- Wet food
-[Whiskas 1+ Years Wet Cat Food Chicken Mince 400g Can](https://www.woolworths.com.au/shop/productdetails/78599/whiskas-1-years-wet-cat-food-chicken-mince)
+---
+##### Dry Food
+- [Hill's Science Diet Feline Adult Original Cat Food](https://www.petbarn.com.au/science-diet-optimal-care-adult-cat-food?sku=98099&gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr96FpSlnXjN6jI71sowQosjzOB_brKXLw6Qa876NZaGerbqfM5QqW8aAjyxEALw_wcB&gclsrc=aw.ds)
+- Hill's Science Diet Feline Adult Indoor Cat Food](https://www.petbarn.com.au/science-diet-feline-adult-indoor-cat-food?sku=119985)
+- [Hill's Science Diet Perfect Weight Adult Cat Food](https://www.petbarn.com.au/science-diet-perfect-weight-adult-cat-food?sku=139349&gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr9-2ymAHRbSOiXixDZyKUWoCavxEkc_0-TV9-DQRm6xCMoL5MF2mdcaAhNBEALw_wcB&gclsrc=aw.ds)
+##### Wet food
+- [Whiskas 1+ Years Wet Cat Food Chicken Mince 400g Can](https://www.woolworths.com.au/shop/productdetails/78599/whiskas-1-years-wet-cat-food-chicken-mince)
 
 ### Cat treat
 [Fussy Cat Grain Free Adult Dry Cat Food Chicken &turkey With Cranberry 500g](https://www.woolworths.com.au/shop/productdetails/382206/fussy-cat-grain-free-adult-dry-cat-food-chicken-turkey-with-cranberry)
@@ -32,15 +46,6 @@ Original: Adaped from [the Lost Dog Home](https://dogshome.com/) in April 2022. 
 North Melbourne VIC 3051
 
 ---
-### Routin
-
-| Time | ACTIVITIES |
-| -----| ----------- |
-| 10 Am | Title       |
-| 2 PM   | Text        |
-| 2 - 6PM ||
-|6PM||
-|10PM||
 
 ---
 ### The poison food for cat
